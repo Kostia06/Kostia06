@@ -32,10 +32,20 @@ React • Next.js • Flask • PostgreSQL • and whatever else gets the job do
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kostia06&show_icons=true&theme=radical)
 
+## 🌐 Check Out My Portfolio
+
+[![Portfolio Preview](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://kos-portfolio.dev/)
+
+<a href="https://kos-portfolio.dev/" target="_blank">
+  <img src="https://via.placeholder.com/600x300/0A0A0A/00D9FF?text=Click+to+Visit+My+Portfolio+%E2%86%92" alt="Portfolio Preview" width="600"/>
+</a>
+
+*Click above to see my full portfolio with projects, experience, and more!*
+
 ## 📫 Find Me
 
 📧 Ilnkostia@gmail.com
-🌐 [Portfolio](https://kos-portfolio.vercel.app/)
+🌐 [kos-portfolio.vercel.app](https://kos-portfolio.dev/)
 💼 [LinkedIn](https://www.linkedin.com/in/kostia-ilnytskyi-899a53247/)
 
 Currently open to internships where I can write code, drink coffee, and pretend to understand what I'm doing!
