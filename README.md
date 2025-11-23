@@ -36,7 +36,7 @@ React • Next.js • Flask • PostgreSQL • and whatever else gets the job do
 ## 📫 Find Me
 
 📧 Ilnkostia@gmail.com
-🌐 [kos-portfolio.vercel.app](https://kos-portfolio.dev/)
+🌐 [kos-portfolio.dev](https://kos-portfolio.dev/)
 💼 [LinkedIn](https://www.linkedin.com/in/kostia-ilnytskyi-899a53247/)
 
 Currently open to internships where I can write code, drink coffee, and pretend to understand what I'm doing!
