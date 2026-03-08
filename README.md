@@ -1,4 +1,4 @@
-# Hey, I'm Kostiantyn! 👋
+# Hey, I'm Kos! 👋
 
 CS student at University of Calgary who likes building stuff and breaking things (then fixing them, usually).
 
